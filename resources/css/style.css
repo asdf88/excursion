@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.bigHeading {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+a {
+  font-family: Verdana;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.smallHeading {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.text {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+#copyright {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
